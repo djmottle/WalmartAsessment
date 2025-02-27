@@ -1,0 +1,34 @@
+[
+    {
+      "capital": "Algiers",
+      "code": "DZ",
+      "currency": {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      },
+      "flag": "https://restcountries.eu/data/dza.svg",
+      "language": {
+        "code": "ar",
+        "name": "Arabic"
+      },
+      "name": "Algeria",
+      "region": "AF"
+    },
+    {
+      "capital": "Pago Pago",
+      "code": "AS",
+      "currency": {
+        "code": "USD",
+        "name": "United State Dollar",
+        "symbol": "$"
+      },
+      "flag": "https://restcountries.eu/data/asm.svg",
+      "language": {
+        "code": "en",
+        "name": "English"
+      },
+      "name": "American Samoa",
+      "region": "OC"
+    }
+]
